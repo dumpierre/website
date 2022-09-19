@@ -22,11 +22,11 @@ output:
 
 ^\<[ler em português](../index-pt)\>^
 
-## Bio
+## Bio -
 
 I am an Assistant Professor of Public Health at the Federal University of Rio Grande do Sul (UFRGS), in Porto Alegre, Brazil. My broad research interests include health technology assessment and research synthesis. My group and I have been using methodological study designs, systematic reviews and clinical trials. All of these projects are increasingly embedded in practices to ensure an open, public-centred, and inclusive science.
 
-## Education
+## Education -
 
 PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
 
