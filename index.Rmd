@@ -24,13 +24,13 @@ I am an Assistant Professor of Public Health at the Federal University of Rio Gr
 
 Below are brief descriptions and links for some projects I've worked on.
 
-[Ongoing]{.underline}
+*Ongoing*
 
 [The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| A trial to assess the feasibility of a home-based exercise program for individuals with breast or prostate cancer.
 
 [The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
 
-[Completed (non-exhaustive)]{.underline}
+*Completed (non-exhaustive)*
 
 [SEES Initiative](https://sees-initiative.org/) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
 
