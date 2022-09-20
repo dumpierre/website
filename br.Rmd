@@ -18,8 +18,6 @@ output:
   postcards::trestles
 ---
 
-------------------------------------------------------------------------
-
 ^\<[read in english](/)\>^
 
 ## Bio
@@ -72,4 +70,4 @@ Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 
 
 ##### Credits
 
-^Desenvolvido\ com\ o\ pacote\ [postcards](https://github.com/seankross/postcards),\ por\ Sean\ Kross.\ Hospedado\ no\ GitHub\ Pages.^
+^Desenvolvido com o pacote [postcards](https://github.com/seankross/postcards), por Sean Kross. Hospedado no GitHub Pages.^
