@@ -20,31 +20,41 @@ output:
 
 ------------------------------------------------------------------------
 
-^\<[ler em português](../index-pt)\>^
-
-## Hello,
-
-I am an Assistant Professor of Public Health at the Federal University of Rio Grande do Sul (UFRGS), in Porto Alegre, Brazil. My broad research interests include health technology assessment and research synthesis. My group and I have been using methodological study designs, systematic reviews and clinical trials. All of these projects are increasingly embedded in practices to ensure an open, public-centred, and inclusive science.
+^\<[ler em português](../br)\>^
 
 ## Bio
 
-My background is in exercise sciences, with a primary interest for exercise interventions in clinical conditions. I have been surrounded by fantastic mentors, professors, and colleagues. My academic path combined exercise pathophysiology during my MSc and PhD, and epidemiology/evidence synthesis during my postdoctoral fellowship. Currently, my research addresses two main domains: (1) assessment of physical activity interventions in at risk or ill individuals, particularly through clinical trials and systematic reviews/meta-analyses of exercise training interventions; and (2) meta-research in exercise sciences, which was prompted by observing many unreliable reporting practices in my discipline, including scientific misreporting from myself.
+I am an Assistant Professor of Public Health at the Federal University of Rio Grande do Sul (UFRGS), in Porto Alegre, Brazil. My broad research interests include health technology assessment and research synthesis. My group and I have been using methodological study designs, systematic reviews and clinical trials. All of these projects are designed to serve as platforms of academic education and scientific excellence, being based on practices to promote an open, public-centred, and inclusive science.
 
-At the undergraduate level, I teach courses of (i) epidemiological surveillance, (ii) research methods, and (iii) health in the elderly, for students pursuing a Public Health major. At the graduate level, I serve as a permanent advisor at the Graduate Program of Cardiovascular Sciences/UFRGS, as well at the Graduate Program of Public Health.
+## Projects
 
-I work alongside my research team. I mentor students and postdocs with focus on project excellence and career development, promoting the ethical and scientifically-guided attitude that must be ultimately visible through their research.
+Below are brief descriptions and links for some projects I've worked on.
+
+*Ongoing*
+
+[The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| A trial to assess the feasibility of a home-based exercise program for individuals with breast or prostate cancer.
+
+[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
+
+*Completed (non-exhaustive)*
+
+[SEES Initiative](www.sees-initiative.org) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
+
+[The HAEL Study](https://osf.io/56wrv/) \| A trial to compare a pragmatic exercise training program versus health education in older adults.
+
+[Saude-POA Study](https://osf.io/q4r69/) \| A cross-sectional analysis of elderly users of public physical activity programs in the city of Porto Alegre (Brazil).
 
 ## Publications
 
-Google Scholar
+[Google Scholar](https://scholar.google.com.br/citations?user=1vl98BgAAAAJ)
 
-[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date)
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
-\_\<a href="[https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date"](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date") target="\_blank"\>Pubmed\</a\>
-
-## Education
+## Education 
 
 PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+
+Visiting PhD student \| University of Texas at Austin (Austin, USA)
 
 MSc in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
 
@@ -52,8 +62,20 @@ B.S. in Exercise Sciences (Kinesiology) \| Federal University of Rio Grande do S
 
 ## Experience
 
+Hospital de Clínicas de Porto Alegre \| Chief, Clinical Research Division \| January 2019 - Present
+
 Federal University of Rio Grande do Sul \| Assistant Professor \| April 2017 - Present
 
 Federal University of Pelotas \| Assistant Professor \| February 2016 - April 2017
 
 Institute of Health Technology Assessment \| Postdoctoral fellow \| October 2012 - December 2015
+
+Daniel Umpierre CV (English)
+
+[Lattes CV (Portuguese)](http://lattes.cnpq.br/7262168077244929)
+
+---
+
+#### Credits
+
+Desenvolvido com o pacote [postcards](https://github.com/seankross/postcards), por Sean Kross. Hospedado no GitHub Pages.
