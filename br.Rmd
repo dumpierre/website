@@ -1,0 +1,73 @@
+---
+title: "Daniel Umpierre"
+image: "du-site.jpg"
+links:
+  
+  - label: OSF
+    url: "https://osf.io/r53ev/"
+  - label: Twitter
+    url: "https://twitter.com/danielumpierre"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/daniel-umpierre-520ba6b/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:danielumpierre@hcpa.edu.br"
+
+output:
+  postcards::trestles
+---
+
+------------------------------------------------------------------------
+
+^\<[read in english](/)\>^
+
+## Olá,
+
+Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS), em Porto Alegre (RS). De forma ampla, meus interesses de pesquisa incluem avaliação de tecnologias em saúde (especialmente intervenções não-farmacológicas) e síntese de evidências. Meu grupo de pesquisa tem desenvolvido estudos metodológicos, revisões sistemáticas, e ensaios clínicos. Todos os nossos projetos são elaborados para serem plataformas de formação acadêmica e excelência científica, fortemente baseados em práticas para promover ciência aberta, inclusiva, e centrada no público.
+
+## Projetos
+
+Abaixo estão listados links e breves descrições de alguns dos projetos em que estou envolvido.
+
+*Em andamento*
+
+[The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| Um estudo de intervenção para avaliar a viabilidade de um programa remoto de treinamento físico para pessoas com câncer de mama ou próstata.
+
+[The PRACTICE Trial](https://osf.io/npxdw/) \| Um estudo de intervenção para avaliar a eficácia de um programa remoto de atividade física para pessoas com diabetes tipo 2.
+
+*Concluída (lista abreviada)*
+
+[SEES Initiative](www.sees-initiative.org) \| Um projeto com avaliações sistemática de 300+ artigos publicados.
+
+[The HAEL Study](https://osf.io/56wrv/) \| Um estudo que comparou um programa de treinamento combinado versus uma intervenção de educação em saúde para idosos com hipertensão arterial.
+
+[Saude-POA Study](https://osf.io/q4r69/) \| Um levantamento sobre a situação de saúde de idosos participantes de programa público de atividade física em Porto Alegre (RS).
+
+## Formação
+
+Doutorado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+
+Mestrado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+
+Licenciatura plena em Educação Física \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+
+## Experiência
+
+Hospital de Clínicas de Porto Alegre \| Chefe do Serviço de Pesquisa Clínica \| Jan 2019 - atual
+
+Universidade Federal do Rio Grande do Sul \| Assistant Professor \| Abr 2017 - atual
+
+Universidade Federal do Rio Grande do Sul \| Assistant Professor \| Fev 2016 - Abr 2017
+
+Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 - Dez 2015
+
+[CV Lattes](http://lattes.cnpq.br/7262168077244929)
+
+Daniel Umpierre CV (Inglês)
+
+---
+
+#### Credits
+
+Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.

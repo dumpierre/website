@@ -22,15 +22,29 @@ output:
 
 ^\<[ler em português](../index-pt)\>^
 
-## Bio -
+## Hello,
 
 I am an Assistant Professor of Public Health at the Federal University of Rio Grande do Sul (UFRGS), in Porto Alegre, Brazil. My broad research interests include health technology assessment and research synthesis. My group and I have been using methodological study designs, systematic reviews and clinical trials. All of these projects are increasingly embedded in practices to ensure an open, public-centred, and inclusive science.
 
-## Education -
+## Bio
+
+My background is in exercise sciences, with a primary interest for exercise interventions in clinical conditions. I have been surrounded by fantastic mentors, professors, and colleagues. My academic path combined exercise pathophysiology during my MSc and PhD, and epidemiology/evidence synthesis during my postdoctoral fellowship. Currently, my research addresses two main domains: (1) assessment of physical activity interventions in at risk or ill individuals, particularly through clinical trials and systematic reviews/meta-analyses of exercise training interventions; and (2) meta-research in exercise sciences, which was prompted by observing many unreliable reporting practices in my discipline, including scientific misreporting from myself.
+
+At the undergraduate level, I teach courses of (i) epidemiological surveillance, (ii) research methods, and (iii) health in the elderly, for students pursuing a Public Health major. At the graduate level, I serve as a permanent advisor at the Graduate Program of Cardiovascular Sciences/UFRGS, as well at the Graduate Program of Public Health.
+
+I work alongside my research team. I mentor students and postdocs with focus on project excellence and career development, promoting the ethical and scientifically-guided attitude that must be ultimately visible through their research.
+
+## Publications
+
+Google Scholar
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date)
+
+\_\<a href="[https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date"](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D&sort=date") target="\_blank"\>Pubmed\</a\>
+
+## Education
 
 PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
-
-Visiting PhD student \| University of Texas at Austin (Austin, USA)
 
 MSc in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
 
