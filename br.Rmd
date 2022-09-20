@@ -2,7 +2,6 @@
 title: "Daniel Umpierre"
 image: "du-site.jpg"
 links:
-  
   - label: OSF
     url: "https://osf.io/r53ev/"
   - label: Twitter
@@ -13,7 +12,6 @@ links:
     url: "https://github.com/"
   - label: Email
     url: "mailto:danielumpierre@hcpa.edu.br"
-
 output:
   postcards::trestles
 ---
@@ -28,13 +26,13 @@ Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande d
 
 Abaixo estão listados links e breves descrições de alguns dos projetos em que estou envolvido.
 
-*Em andamento*
+[Em andamento]{.underline}
 
 [The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| Um estudo de intervenção para avaliar a viabilidade de um programa remoto de treinamento físico para pessoas com câncer de mama ou próstata.
 
 [The PRACTICE Trial](https://osf.io/npxdw/) \| Um estudo de intervenção para avaliar a eficácia de um programa remoto de atividade física para pessoas com diabetes tipo 2.
 
-*Concluída (lista abreviada)*
+[Concluída (lista abreviada)]{.underline}
 
 [SEES Initiative](https://sees-initiative.org/) \| Um projeto com avaliações sistemática de 300+ artigos publicados.
 
