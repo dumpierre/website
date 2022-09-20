@@ -38,7 +38,7 @@ Abaixo estão listados links e breves descrições de alguns dos projetos em que
 
 *Concluída (lista abreviada)*
 
-[SEES Initiative](www.sees-initiative.org) \| Um projeto com avaliações sistemática de 300+ artigos publicados.
+[SEES Initiative](https://sees-initiative.org/) \| Um projeto com avaliações sistemática de 300+ artigos publicados.
 
 [The HAEL Study](https://osf.io/56wrv/) \| Um estudo que comparou um programa de treinamento combinado versus uma intervenção de educação em saúde para idosos com hipertensão arterial.
 

@@ -38,7 +38,7 @@ Below are brief descriptions and links for some projects I've worked on.
 
 *Completed (non-exhaustive)*
 
-[SEES Initiative](www.sees-initiative.org) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
+[SEES Initiative](https://sees-initiative.org/) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
 
 [The HAEL Study](https://osf.io/56wrv/) \| A trial to compare a pragmatic exercise training program versus health education in older adults.
 
