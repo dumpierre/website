@@ -22,7 +22,7 @@ output:
 
 ^\<[read in english](/)\>^
 
-## Olá,
+## Bio
 
 Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS), em Porto Alegre (RS). De forma ampla, meus interesses de pesquisa incluem avaliação de tecnologias em saúde (especialmente intervenções não-farmacológicas) e síntese de evidências. Meu grupo de pesquisa tem desenvolvido estudos metodológicos, revisões sistemáticas, e ensaios clínicos. Todos os nossos projetos são elaborados para serem plataformas de formação acadêmica e excelência científica, fortemente baseados em práticas para promover ciência aberta, inclusiva, e centrada no público.
 
@@ -66,8 +66,8 @@ Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 
 
 Daniel Umpierre CV (Inglês)
 
----
+------------------------------------------------------------------------
 
-#### Credits
+##### Credits
 
-Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.
+^Desenvolvido\ com\ o\ pacote\ [postcards](https://github.com/seankross/postcards),\ por\ Sean\ Kross.\ Hospedado\ no\ GitHub\ Pages.^

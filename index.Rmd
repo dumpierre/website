@@ -50,7 +50,7 @@ Below are brief descriptions and links for some projects I've worked on.
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
-## Education 
+## Education
 
 PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
 
@@ -74,8 +74,8 @@ Daniel Umpierre CV (English)
 
 [Lattes CV (Portuguese)](http://lattes.cnpq.br/7262168077244929)
 
----
+------------------------------------------------------------------------
 
-#### Credits
+##### Credits
 
-Desenvolvido com o pacote [postcards](https://github.com/seankross/postcards), por Sean Kross. Hospedado no GitHub Pages.
+^Created\ with\ the\ [postcards](https://github.com/seankross/postcards)\ package\ by\ Sean\ Kross.\ Hosted\ on\ GitHub\ Pages.^
