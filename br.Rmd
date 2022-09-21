@@ -20,7 +20,7 @@ output:
 
 ## Bio
 
-Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS), em Porto Alegre (RS). De forma ampla, meus interesses de pesquisa incluem avaliação de tecnologias em saúde (especialmente intervenções não-farmacológicas) e síntese de evidências. Meu grupo de pesquisa tem desenvolvido estudos metodológicos, revisões sistemáticas, e ensaios clínicos. Todos os nossos projetos são elaborados para serem plataformas de formação acadêmica e excelência científica, fortemente baseados em práticas para promover ciência aberta, inclusiva, e centrada no público.
+Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS) e um dos coordenadores do Laboratório de Atividade Física, Diabetes e Doença Cardiovascular (LADD). De forma ampla, meus interesses de pesquisa incluem avaliação de tecnologias em saúde (especialmente intervenções não-farmacológicas) e síntese de evidências. Meu grupo de pesquisa tem desenvolvido estudos metodológicos, revisões sistemáticas, e ensaios clínicos. Todos os nossos projetos são elaborados para serem plataformas de formação acadêmica e excelência científica, fortemente baseados em práticas para promover ciência aberta, inclusiva, e centrada no público.
 
 ## Projetos
 
@@ -39,6 +39,22 @@ Abaixo estão listados links e breves descrições de alguns dos projetos em que
 [The HAEL Study](https://osf.io/56wrv/) \| Um estudo que comparou um programa de treinamento combinado versus uma intervenção de educação em saúde para idosos com hipertensão arterial.
 
 [Saude-POA Study](https://osf.io/q4r69/) \| Um levantamento sobre a situação de saúde de idosos participantes de programa público de atividade física em Porto Alegre (RS).
+
+## LADD
+
+Abaixo estão alguns links relacionados ao **Laboratório de Atividade Física, Diabetes e Doença Cardiovascular (LADD)**.
+
+[Journal Club](https://osf.io/75bna/) \| Repositório de artigos discutidos em clubes de revista.
+
+[Instagram](https://www.instagram.com/ladd.hcpa/) \| Perfil do LADD no IG, com links para perfis específicos de projetos.
+
+[HCPA Pesquisa](https://www.hcpa.edu.br/pesquisa) \| Site do HCPA com muitas informações sobre a pesquisa e os processos na instituição.
+
+## Publicações
+
+[Google Scholar](https://scholar.google.com.br/citations?user=1vl98BgAAAAJ)
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
 ## Formação
 
@@ -66,4 +82,4 @@ Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 
 
 ------------------------------------------------------------------------
 
-*Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.*
+*Criado com o pacote [postcards](https://github.com/seankross/postcards), por Sean Kross. Hospedado no GitHub Pages.*
