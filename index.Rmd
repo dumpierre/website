@@ -1,75 +1,40 @@
 ---
-title: "Daniel Umpierre"
+title: "Frank Hermosillo"
 image: "du-site.jpg"
 links:
-  - label: OSF
-    url: "https://osf.io/r53ev/"
-  - label: Twitter
-    url: "https://twitter.com/danielumpierre"
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/daniel-umpierre-520ba6b/"
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:danielumpierre@hcpa.edu.br"
+    url: "mailto:email@email.com"
 output:
   postcards::trestles
 ---
-
+ 
 ## Bio
 
-I am an Assistant Professor of Public Health at the Federal University of Rio Grande do Sul (UFRGS), in Porto Alegre, Brazil. My broad research interests include health technology assessment and research synthesis. My group and I have been using methodological study designs, systematic reviews and clinical trials. All of these projects are designed to serve as platforms of academic education and scientific excellence, being based on practices to promote an open, public-centred, and inclusive science.
-
-## Projects
-
-Below are brief descriptions and links for some projects I've worked on.
-
-*Ongoing*
-
-[The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| A trial to assess the feasibility of a home-based exercise program for individuals with breast or prostate cancer.
-
-[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
-
-*Completed (non-exhaustive)*
-
-[SEES Initiative](https://sees-initiative.org/) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
-
-[The HAEL Study](https://osf.io/56wrv/) \| A trial to compare a pragmatic exercise training program versus health education in older adults.
-
-[Saude-POA Study](https://osf.io/q4r69/) \| A cross-sectional analysis of elderly users of public physical activity programs in the city of Porto Alegre (Brazil).
-
-## Publications
-
-[Google Scholar](https://scholar.google.com.br/citations?user=1vl98BgAAAAJ)
-
-[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
 
 ## Education
 
-PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+**Massachusetts Institute of Technology** | Cambridge, MA
 
-Visiting PhD student \| University of Texas at Austin (Austin, USA)
+Ph.D. in Computer Science | September 2009 - May 2014
 
-MSc in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+**The University of California, Berkeley** | Berkeley, CA
 
-B.S. in Exercise Sciences (Kinesiology) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
-Hospital de Clínicas de Porto Alegre \| Chief, Clinical Research Division \| Jan 2019 - Present
+**Google Brain** | Principal Investigator | January 2018 - Present
 
-Federal University of Rio Grande do Sul \| Assistant Professor \| Apr 2017 - Present
-
-Federal University of Pelotas \| Assistant Professor \| Feb 2016 - Apr 2017
-
-Institute of Health Technology Assessment \| Postdoctoral fellow \| Oct 2012 - Dec 2015
-
-## CV
-
-[Daniel Umpierre CV](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf) (English)
-
-[Lattes CV](http://lattes.cnpq.br/7262168077244929) (Portuguese)
-
-##### Credits
-
-^Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.^
+**Netflix** | Research Scientist | June 2014 - December 2017
