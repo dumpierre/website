@@ -48,13 +48,13 @@ Below are brief descriptions and links for some projects I've worked on.
 
 ## Education
 
-PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+PhD in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul \| Porto Alegre, Brazil
 
-Visiting PhD student \| University of Texas at Austin (Austin, USA)
+Visiting PhD student \| University of Texas at Austin \| Austin, USA
 
-MSc in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+MSc in Health Sciences (Cardiovascular Sciences) \| Federal University of Rio Grande do Sul \| Porto Alegre, Brazil
 
-B.S. in Exercise Sciences (Kinesiology) \| Federal University of Rio Grande do Sul (Porto Alegre, Brazil)
+B.S. in Exercise Sciences (Kinesiology) \| Federal University of Rio Grande do Sul \| Porto Alegre, Brazil
 
 ## Experience
 
@@ -74,4 +74,4 @@ Institute of Health Technology Assessment \| Postdoctoral fellow \| Oct 2012 - D
 
 ------------------------------------------------------------------------
 
-**Credits** \|Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.
+*Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.*

@@ -42,19 +42,19 @@ Abaixo estão listados links e breves descrições de alguns dos projetos em que
 
 ## Formação
 
-Doutorado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+Doutorado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul \| Porto Alegre, Brasil
 
-Mestrado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+Mestrado em Ciências da Saúde (Ciências Cardiovasculares) \| Universidade Federal do Rio Grande do Sul \| Porto Alegre, Brasil
 
-Licenciatura plena em Educação Física \| Universidade Federal do Rio Grande do Sul (Porto Alegre, Brasil)
+Licenciatura plena em Educação Física \| Universidade Federal do Rio Grande do Sul \| Porto Alegre, Brasil
 
 ## Experiência
 
-Hospital de Clínicas de Porto Alegre \| Chefe do Serviço de Pesquisa Clínica \| Jan 2019 - atual
+Hospital de Clínicas de Porto Alegre (HCPA) \| Chefe do Serviço de Pesquisa Clínica \| Jan 2019 - atual
 
-Universidade Federal do Rio Grande do Sul \| Assistant Professor \| Abr 2017 - atual
+Universidade Federal do Rio Grande do Sul \| Professor adjunto \| Abr 2017 - atual
 
-Universidade Federal do Rio Grande do Sul \| Assistant Professor \| Fev 2016 - Abr 2017
+Universidade Federal de PElotas \| Professor adjunto \| Fev 2016 - Abr 2017
 
 Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 - Dez 2015
 
@@ -66,6 +66,4 @@ Instituto de Avaliação de Tecnologia em Saúde \| Pós-doutorando \| Out 2012 
 
 ------------------------------------------------------------------------
 
-##### Credits
-
-^Desenvolvido com o pacote [postcards](https://github.com/seankross/postcards), por Sean Kross. Hospedado no GitHub Pages.^
+*Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.*
