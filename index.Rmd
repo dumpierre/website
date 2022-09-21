@@ -72,6 +72,6 @@ Institute of Health Technology Assessment \| Postdoctoral fellow \| Oct 2012 - D
 
 ------------------------------------------------------------------------
 
-**Credits**
+Credits
 
 ^Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.^
