@@ -15,24 +15,6 @@ links:
 output:
   postcards::trestles
 ---
- 
----
-title: "Daniel Umpierre"
-image: "du-site.jpg"
-links:
-  - label: OSF
-    url: "https://osf.io/r53ev/"
-  - label: Twitter
-    url: "https://twitter.com/danielumpierre"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/daniel-umpierre-520ba6b/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:danielumpierre@hcpa.edu.br"
-output:
-  postcards::trestles
----
 
 ## Bio
 
@@ -87,3 +69,9 @@ Institute of Health Technology Assessment \| Postdoctoral fellow \| Oct 2012 - D
 [Daniel Umpierre CV](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf) (English)
 
 [Lattes CV](http://lattes.cnpq.br/7262168077244929) (Portuguese)
+
+------------------------------------------------------------------------
+
+**Credits**
+
+^Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.^
