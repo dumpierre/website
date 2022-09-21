@@ -4,12 +4,12 @@ image: "du-site.jpg"
 links:
   - label: OSF
     url: "https://osf.io/r53ev/"
-  - label: Twitter
-    url: "https://twitter.com/danielumpierre"
+  - label: GitHub
+    url: "https://github.com/dumpierre"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/daniel-umpierre-520ba6b/"
-  - label: GitHub
-    url: "https://github.com/"
+  - label: Twitter
+    url: "https://twitter.com/danielumpierre"
   - label: Email
     url: "mailto:danielumpierre@hcpa.edu.br"
 output:

@@ -16,7 +16,7 @@ output:
   postcards::trestles
 ---
 
-\<[Ler em português](../br)\>
+^\<[Ler\ em\ português](../br)\>^
 
 ## Bio
 
