@@ -1,15 +1,17 @@
 ---
-title: "Frank Hermosillo"
+title: "Daniel Umpierre"
 image: "du-site.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: OSF
+    url: "https://osf.io/r53ev/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/dumpierre"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/daniel-umpierre-520ba6b/"
+  - label: Twitter
+    url: "https://twitter.com/danielumpierre" 
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:danielumpierre@hcpa.edu.br"
 output:
   postcards::trestles
 ---
