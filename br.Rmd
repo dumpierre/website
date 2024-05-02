@@ -28,11 +28,17 @@ Abaixo estão listados links e breves descrições de alguns dos projetos em que
 
 *Em andamento*
 
+[Trial Outcomes - Kids](https://osf.io/3zcfn/) \| Revisão de revisões sistemáticas para sintetizar desfechos avaliados em estudos com intervenções de atividade física para crianças e adolescentes.
+
+[The Data Percept](https://osf.io/gw2x6/) \| Levantamento sobre percepções e práticas de gestão de dados em nível institucional.
+
+[PNS Studies](https://osf.io/gw2x6/) \| Projeto com exploração de dados e artigos derivados da "Pesquisa Nacional de Saúde" (PNS-Brasil), com foco em determinantes sociais de saúde.
+
+[Diabetes Estimates](https://osf.io/gw2x6/) \| Projeto com uso de dados secundários para estimar a proteção potencial da atividade física sobre complicações relacionadas ao diabetes.
+
+*Concluídos (lista resumida)*
+
 [The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| Um estudo de intervenção para avaliar a viabilidade de um programa remoto de treinamento físico para pessoas com câncer de mama ou próstata.
-
-[The PRACTICE Trial](https://osf.io/npxdw/) \| Um estudo de intervenção para avaliar a eficácia de um programa remoto de atividade física para pessoas com diabetes tipo 2.
-
-*Concluída (lista abreviada)*
 
 [SEES Initiative](https://sees-initiative.org/) \| Um projeto com avaliações sistemática de 300+ artigos publicados.
 
@@ -40,13 +46,17 @@ Abaixo estão listados links e breves descrições de alguns dos projetos em que
 
 [Saude-POA Study](https://osf.io/q4r69/) \| Um levantamento sobre a situação de saúde de idosos participantes de programa público de atividade física em Porto Alegre (RS).
 
+*Pausado*
+
+[The PRACTICE Trial](https://osf.io/npxdw/) \| Um estudo de intervenção para avaliar a eficácia de um programa remoto de atividade física para pessoas com diabetes tipo 2. Esse projeto está pausado devido a alterações em critérios de elegibilidade e características das intervenções.
+
 ## LADD
 
 Abaixo estão alguns links relacionados ao **Laboratório de Atividade Física, Diabetes e Doença Cardiovascular (LADD)**.
 
 [Journal Club](https://osf.io/75bna/) \| Repositório de artigos discutidos em clubes de revista.
 
-[Instagram](https://www.instagram.com/ladd.hcpa/) \| Perfil do LADD no IG, com links para perfis específicos de projetos.
+[Instagram](https://www.instagram.com/ladd-hcpa/) \| Perfil do LADD no IG, com links para perfis específicos de projetos.
 
 [HCPA Pesquisa](https://www.hcpa.edu.br/pesquisa) \| Site do HCPA com muitas informações sobre a pesquisa e os processos na instituição.
 
@@ -55,6 +65,9 @@ Abaixo estão alguns links relacionados ao **Laboratório de Atividade Física, 
 [Google Scholar](https://scholar.google.com.br/citations?user=1vl98BgAAAAJ)
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
+
+[Open data and materials\
+]{.underline}Links para repositórios de projetos que eu coordeno estão atualmente disponíveis somente no meu CV em inglês[CV (English)](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), sob o ítem 'Open Data'.
 
 ## Formação
 

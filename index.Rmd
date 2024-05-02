@@ -65,7 +65,7 @@ Below are brief descriptions and links for some projects I've worked on.
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
 [Open data and materials\
-]{.underline}Links to repositories for projects I lead are currently listed only n my [CV (English)](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), under the topic 'Open Data'.
+]{.underline}Links to repositories for projects I lead are currently listed only n my [CV (English)](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), under the topic 'Research'.
 
 ## Education
 
