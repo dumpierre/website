@@ -28,11 +28,17 @@ Below are brief descriptions and links for some projects I've worked on.
 
 *Ongoing*
 
-[The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| A trial to assess the feasibility of a home-based exercise program for individuals with breast or prostate cancer.
+[Trial Outcomes - Kids] (https://osf.io/3zcfn/) \| An umbrella review to summarize outcomes measured in trials with physical activity interventions for children and adolescents.
 
-[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
+[The Data Percept](https://osf.io/gw2x6/) \| This project surveys perceptions and practices on research data management within our institution.
+
+[PNS Studies](https://osf.io/gw2x6/) \| This project explores data and studies from the "Pesquisa Nacional de Saúde" (PNS-Brasil) focusing social determinants of health.
+
+[Diabetes Estimates](https://osf.io/gw2x6/) \| This project used secondary data to estimate the potential prevention of physical activity against diabetes-related complications.
 
 *Completed (non-exhaustive)*
+
+[The BENEFIT-CA Trial](https://osf.io/gw2x6/) \| A trial to assess the feasibility of a home-based exercise program for individuals with breast or prostate cancer.
 
 [SEES Initiative](https://sees-initiative.org/) \| A 2-year meta-research project with systematic assessment of 300+ published articles.
 
@@ -40,11 +46,16 @@ Below are brief descriptions and links for some projects I've worked on.
 
 [Saude-POA Study](https://osf.io/q4r69/) \| A cross-sectional analysis of elderly users of public physical activity programs in the city of Porto Alegre (Brazil).
 
+*Paused*
+
+[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
+This project is paused to amendments necessary to eligibility criteria and interventions.
+
 ## Lab Resources
 
-[Journal Club](https://osf.io/75bna/) \| This is a repository of articles discussed in our lab journal clubs.
+[Journal Club](https://osf.io/75bna/) \| This is a repository of articles discussed in lab journal clubs.
 
-[Instagram](https://www.instagram.com/ladd.hcpa/) \| Our IG profile for the LADD Lab, with links for our study profiles.
+[Instagram](https://www.instagram.com/ladd-hcpa/) \| Our IG profile for the LADD Lab, with links for our study profiles.
 
 [HCPA Research](https://www.hcpa.edu.br/pesquisa) \| Lots of information about the research and processes in our institution.
 
@@ -53,6 +64,8 @@ Below are brief descriptions and links for some projects I've worked on.
 [Google Scholar](https://scholar.google.com.br/citations?user=1vl98BgAAAAJ)
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
+
+[Open data and materials] Link to repositories for projects I lead are listed in my CV (English), under the topic 'Open Data'.
 
 ## Education
 
@@ -66,7 +79,7 @@ B.S. in Exercise Sciences (Kinesiology) \| Federal University of Rio Grande do S
 
 ## Experience
 
-Hospital de Clínicas de Porto Alegre \| Chief, Clinical Research Division \| Jan 2019 - Present
+Hospital de Clínicas de Porto Alegre \| Chief, Clinical Research Division \| Jan 2019 - Jan 2023
 
 Federal University of Rio Grande do Sul \| Assistant Professor \| Apr 2017 - Present
 
@@ -82,4 +95,4 @@ Institute of Health Technology Assessment \| Postdoctoral fellow \| Oct 2012 - D
 
 ------------------------------------------------------------------------
 
-*Created with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.*
+*Created in R Studio, with the [postcards](https://github.com/seankross/postcards) package by Sean Kross. Hosted on GitHub Pages.*
