@@ -67,7 +67,7 @@ Abaixo estão alguns links relacionados ao **Laboratório de Atividade Física, 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
 [Open data and materials\
-]{.underline}Links para repositórios de projetos que eu coordeno estão atualmente disponíveis somente no meu CV em inglês[CV (English)](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), sob o ítem 'Open Data'.
+]{.underline}Links para repositórios de projetos que eu coordeno estão atualmente disponíveis somente no meu [CV em inglês](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), sob o ítem 'Research'.
 
 ## Formação
 
