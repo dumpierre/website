@@ -28,7 +28,7 @@ Below are brief descriptions and links for some projects I've worked on.
 
 *Ongoing*
 
-[Trial Outcomes - Kids] (https://osf.io/3zcfn/) \| An umbrella review to summarize outcomes measured in trials with physical activity interventions for children and adolescents.
+[Trial Outcomes - Kids](https://osf.io/3zcfn/) \| An umbrella review to summarize outcomes measured in trials with physical activity interventions for children and adolescents.
 
 [The Data Percept](https://osf.io/gw2x6/) \| This project surveys perceptions and practices on research data management within our institution.
 
@@ -48,8 +48,7 @@ Below are brief descriptions and links for some projects I've worked on.
 
 *Paused*
 
-[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes.
-This project is paused to amendments necessary to eligibility criteria and interventions.
+[The PRACTICE Trial](https://osf.io/npxdw/) \| A trial to assess the efficacy of a remote physical activity program for individual with type 2 diabetes. This project is paused to amendments necessary to eligibility criteria and interventions.
 
 ## Lab Resources
 
@@ -65,7 +64,8 @@ This project is paused to amendments necessary to eligibility criteria and inter
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=umpierre+d%5Bauthor%5D+not+1989%5Bdp%5D)
 
-[Open data and materials] Link to repositories for projects I lead are listed in my CV (English), under the topic 'Open Data'.
+[Open data and materials\
+]{.underline}Links to repositories for projects I lead are currently listed only n my [CV (English)](https://github.com/dumpierre/website/raw/main/CV-DanielUmpierre.pdf), under the topic 'Open Data'.
 
 ## Education
 
