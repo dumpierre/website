@@ -4,34 +4,146 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Daniel Umpierre</title>
-<meta name="description" content="Daniel Umpierre: Lattes, LinkedIn, YouTube, Instagram e Eleições 2026.">
+<meta name="description" content="Daniel Umpierre, professor de Saúde Coletiva na UFRGS. Pesquisa, especial Eleições 2026, links e contato.">
+<meta property="og:title" content="Daniel Umpierre">
+<meta property="og:description" content="Professor de Saúde Coletiva na UFRGS. Especial Eleições 2026.">
+<meta property="og:url" content="https://danielumpierre.com/">
+<meta property="og:image" content="https://danielumpierre.com/du-foto.jpg">
+<meta name="theme-color" content="#141c27">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23141c27'/%3E%3Ctext x='16' y='21' font-family='Georgia,serif' font-size='14' fill='%23d9b45a' text-anchor='middle'%3EDU%3C/text%3E%3C/svg%3E">
+<link rel="preload" href="fonts/cormorant-garamond-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/eb-garamond-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <style>
-:root{--bg:#fafaf8;--txt:#16171c;--sec:#5d5f68;--borda:#dcdcd6;--real:#b8811a}
-@media (prefers-color-scheme:dark){:root{--bg:#0e0f14;--txt:#e6e7ec;--sec:#9a9ba6;--borda:#2a2c38;--real:#e2a632}}
+@font-face{font-family:"Cormorant Garamond";font-weight:500;font-display:swap;src:url(fonts/cormorant-garamond-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:600;font-display:swap;src:url(fonts/cormorant-garamond-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"EB Garamond";font-weight:400;font-display:swap;src:url(fonts/eb-garamond-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"EB Garamond";font-weight:400;font-style:italic;font-display:swap;src:url(fonts/eb-garamond-latin-400-italic.woff2) format("woff2")}
+@font-face{font-family:"EB Garamond";font-weight:600;font-display:swap;src:url(fonts/eb-garamond-latin-600-normal.woff2) format("woff2")}
+:root{
+  --bg:#141c27; --bg2:#19222f; --borda:#2a3442; --txt:#f5f1e8; --sec:#b9b3a6; --ouro:#d9b45a; --ouro-fraco:#8a7440;
+  --lula:#ec6d5d; --pl:#5aa5fb;
+  --titulo:"Cormorant Garamond",Georgia,"Times New Roman",serif; --texto:"EB Garamond",Georgia,"Times New Roman",serif;
+  color-scheme:dark;
+}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--bg);color:var(--txt);
-  font-family:"IBM Plex Sans Condensed","Arial Narrow",system-ui,-apple-system,"Segoe UI",sans-serif;padding:32px 16px}
-main{width:100%;max-width:420px}
-h1{font-size:clamp(34px,9vw,46px);line-height:1;margin:0 0 28px;letter-spacing:-.01em}
-ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
-a{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;border:1px solid var(--borda);border-radius:8px;
-  color:var(--txt);text-decoration:none;font-size:18px}
-a:hover{border-color:var(--sec)}
-a:focus-visible{outline:2px solid var(--real);outline-offset:2px}
-a span{color:var(--sec);font-size:14px}
-a.destaque{border-color:var(--real)}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--txt);font-family:var(--texto);font-size:19px;line-height:1.65;
+  background-image:radial-gradient(60% 40% at 50% 0%,rgba(217,180,90,.06),transparent 70%)}
+a{color:var(--txt);text-decoration:underline;text-decoration-color:var(--ouro-fraco);text-underline-offset:4px}
+a:hover{text-decoration-color:var(--ouro)}
+a:focus-visible{outline:2px solid var(--ouro);outline-offset:3px;border-radius:2px}
+.pagina{max-width:960px;margin:0 auto;padding:0 20px}
+header.topo{display:flex;justify-content:space-between;align-items:center;padding:22px 0}
+header.topo .casa{font-family:var(--titulo);font-weight:600;font-size:20px;text-decoration:none}
+header.topo nav{display:flex;gap:20px;font-size:16px}
+header.topo nav a{text-decoration:none;color:var(--sec)}
+header.topo nav a:hover{color:var(--txt)}
+.capa{text-align:center;padding:40px 0 8px}
+.selo{display:block;width:150px;height:150px;margin:0 auto 22px;border-radius:50%;object-fit:cover;object-position:50% 40%;
+  border:2px solid var(--ouro-fraco);box-shadow:0 0 0 6px var(--bg),0 0 0 7px var(--borda)}
+h1{font-family:var(--titulo);font-weight:600;font-size:clamp(40px,8vw,56px);line-height:1.05;margin:0}
+.capa p{color:var(--sec);margin:8px 0 0;font-style:italic}
+.ornamento{display:flex;align-items:center;justify-content:center;gap:12px;margin:44px 0}
+.ornamento::before,.ornamento::after{content:"";width:56px;height:1px;background:linear-gradient(90deg,transparent,var(--ouro-fraco))}
+.ornamento::after{transform:scaleX(-1)}
+.ornamento i{width:9px;height:9px;border-radius:50%;border:1px solid var(--ouro);box-shadow:inset 0 0 0 2px var(--bg),inset 0 0 0 5px var(--ouro)}
+section{display:grid;grid-template-columns:200px minmax(0,1fr);gap:8px 40px;scroll-margin-top:24px}
+h2{font-family:var(--titulo);font-weight:600;font-size:28px;line-height:1.2;margin:0}
+section p{margin:0 0 16px}
+section p:last-child{margin-bottom:0}
+.cartao{display:grid;grid-template-columns:150px minmax(0,1fr);gap:20px;align-items:center;background:var(--bg2);border:1px solid var(--borda);
+  border-radius:10px;padding:18px;text-decoration:none;position:relative;transition:border-color .2s}
+.cartao:hover{border-color:var(--ouro-fraco)}
+.cartao svg{width:100%;height:auto;display:block;border-radius:6px;background:#0e0f14}
+.cartao h3{font-family:var(--titulo);font-weight:600;font-size:26px;line-height:1.15;margin:0 0 6px}
+.cartao h3 em{color:var(--ouro);font-style:normal}
+.cartao p{color:var(--sec);font-size:17px;line-height:1.5;margin:0 0 10px}
+.etiqueta{display:inline-block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--bg);background:var(--ouro);border-radius:4px;padding:1px 8px}
+.lista{list-style:none;margin:0;padding:0}
+.lista li{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:7px 0;border-bottom:1px solid var(--borda)}
+.lista li:last-child{border-bottom:0}
+.lista a{font-weight:600;text-decoration:none}
+.lista a:hover{text-decoration:underline;text-decoration-color:var(--ouro)}
+.lista span{color:var(--sec);font-size:16px;text-align:right}
+footer{border-top:1px solid var(--borda);margin-top:56px;padding:22px 0 40px;color:var(--sec);font-size:15px}
+@media (max-width:700px){
+  body{font-size:18px}
+  section{grid-template-columns:1fr}
+  h2{margin-bottom:6px}
+  .cartao{grid-template-columns:1fr}
+  .ornamento{margin:32px 0}
+  header.topo nav{gap:14px;font-size:15px}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cartao{transition:none}}
 </style>
 </head>
 <body>
-<main>
-  <h1>Daniel Umpierre</h1>
-  <ul>
-    <li><a class="destaque" href="https://eleicoes.danielumpierre.com/">Eleições 2026 <span>eleicoes.danielumpierre.com</span></a></li>
-    <li><a href="http://lattes.cnpq.br/7262168077244929" rel="me noopener">Lattes <span>CNPq</span></a></li>
-    <li><a href="https://www.linkedin.com/in/daniel-umpierre-520ba6b/" rel="me noopener">LinkedIn <span>daniel-umpierre</span></a></li>
-    <li><a href="https://www.youtube.com/@DanielUmpierre" rel="me noopener">YouTube <span>@DanielUmpierre</span></a></li>
-    <li><a href="https://www.instagram.com/daniel.umpierre/" rel="me noopener">Instagram <span>@daniel.umpierre</span></a></li>
-  </ul>
-</main>
+<div class="pagina">
+  <header class="topo">
+    <a class="casa" href="/">Daniel Umpierre</a>
+    <nav aria-label="Seções"><a href="#sobre">Sobre</a><a href="#especial">Especial</a><a href="#links">Links</a><a href="#contato">Contato</a></nav>
+  </header>
+
+  <main>
+    <div class="capa">
+      <img class="selo" src="du-foto.jpg" width="160" height="160" alt="Foto de Daniel Umpierre">
+      <h1>Daniel Umpierre</h1>
+      <p>Professor de Saúde Coletiva · UFRGS</p>
+    </div>
+
+    <div class="ornamento" aria-hidden="true"><i></i></div>
+
+    <section id="sobre" aria-labelledby="t-sobre">
+      <h2 id="t-sobre">Sobre</h2>
+      <div>
+        <p>Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS) e um dos coordenadores do Laboratório de Atividade Física, Diabetes e Doença Cardiovascular (LADD), no Hospital de Clínicas de Porto Alegre.</p>
+        <p>Pesquiso avaliação de tecnologias em saúde, especialmente intervenções não farmacológicas, e síntese de evidências. Meu grupo faz estudos metodológicos, revisões sistemáticas e ensaios clínicos, com práticas de ciência aberta, inclusiva e centrada no público.</p>
+      </div>
+    </section>
+
+    <div class="ornamento" aria-hidden="true"><i></i></div>
+
+    <section id="especial" aria-labelledby="t-especial">
+      <h2 id="t-especial">Especial</h2>
+      <div>
+        <a class="cartao" href="https://eleicoes.danielumpierre.com/">
+          <svg viewBox="0 0 150 100" aria-hidden="true" focusable="false">
+            <g fill="var(--pl)" opacity=".85"><circle cx="22" cy="20" r="3"/><circle cx="34" cy="26" r="2"/><circle cx="28" cy="34" r="4"/><circle cx="44" cy="18" r="2.5"/><circle cx="40" cy="38" r="2"/><circle cx="52" cy="30" r="3"/><circle cx="18" cy="44" r="2"/><circle cx="60" cy="42" r="2"/><circle cx="34" cy="48" r="2.5"/><circle cx="66" cy="28" r="1.8"/></g>
+            <g fill="var(--lula)" opacity=".85"><circle cx="128" cy="80" r="3"/><circle cx="116" cy="74" r="2"/><circle cx="122" cy="66" r="4"/><circle cx="106" cy="82" r="2.5"/><circle cx="110" cy="62" r="2"/><circle cx="98" cy="70" r="3"/><circle cx="132" cy="56" r="2"/><circle cx="90" cy="58" r="2"/><circle cx="116" cy="52" r="2.5"/><circle cx="84" cy="72" r="1.8"/></g>
+            <line x1="10" y1="90" x2="140" y2="10" stroke="#3a4250" stroke-dasharray="3 3"/>
+          </svg>
+          <div>
+            <h3>Eleições 2026: <em>Cidade não vota. Gente vota.</em></h3>
+            <p>Os mapas do 1º turno com dados oficiais por município: Bolsa Família, renda, 2022 e o que os dados permitem, ou não, dizer.</p>
+            <span class="etiqueta">Em breve</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <div class="ornamento" aria-hidden="true"><i></i></div>
+
+    <section id="links" aria-labelledby="t-links">
+      <h2 id="t-links">Links úteis</h2>
+      <ul class="lista">
+        <li><a href="http://lattes.cnpq.br/7262168077244929" rel="me noopener">Currículo Lattes</a><span>CNPq</span></li>
+        <li><a href="https://www.linkedin.com/in/daniel-umpierre-520ba6b/" rel="me noopener">LinkedIn</a><span>trajetória profissional</span></li>
+        <li><a href="https://www.youtube.com/@DanielUmpierre" rel="me noopener">YouTube</a><span>@DanielUmpierre</span></li>
+        <li><a href="https://www.instagram.com/daniel.umpierre/" rel="me noopener">Instagram</a><span>@daniel.umpierre</span></li>
+      </ul>
+    </section>
+
+    <div class="ornamento" aria-hidden="true"><i></i></div>
+
+    <section id="contato" aria-labelledby="t-contato">
+      <h2 id="t-contato">Contato</h2>
+      <div>
+        <p>Por e-mail: <a href="mailto:danielumpierre@hcpa.edu.br">danielumpierre@hcpa.edu.br</a>. Também respondo mensagens pelo LinkedIn.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>© 2026 Daniel Umpierre</footer>
+</div>
 </body>
 </html>
