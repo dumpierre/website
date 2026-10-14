@@ -1,148 +1,173 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-l="pt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Daniel Umpierre</title>
-<meta name="description" content="Daniel Umpierre, professor de Saúde Coletiva na UFRGS. Pesquisa, especial Eleições 2026, links e contato.">
+<title>Daniel Umpierre · Pesquisador e professor</title>
+<meta name="description" content="Daniel Umpierre, professor de Saúde Coletiva na UFRGS. Pesquisa, colaborações, links e contato.">
 <meta property="og:title" content="Daniel Umpierre">
-<meta property="og:description" content="Professor de Saúde Coletiva na UFRGS. Especial Eleições 2026.">
+<meta property="og:description" content="Professor de Saúde Coletiva na UFRGS.">
 <meta property="og:url" content="https://danielumpierre.com/">
 <meta property="og:image" content="https://danielumpierre.com/du-foto.jpg">
-<meta name="theme-color" content="#141c27">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23141c27'/%3E%3Ctext x='16' y='21' font-family='Georgia,serif' font-size='14' fill='%23d9b45a' text-anchor='middle'%3EDU%3C/text%3E%3C/svg%3E">
-<link rel="preload" href="fonts/cormorant-garamond-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/eb-garamond-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<meta name="theme-color" content="#f6f2e9">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23f6f2e9'/%3E%3Ctext x='16' y='21' font-family='Georgia,serif' font-size='14' fill='%239a7420' text-anchor='middle'%3EDU%3C/text%3E%3C/svg%3E">
 <style>
 @font-face{font-family:"Cormorant Garamond";font-weight:500;font-display:swap;src:url(fonts/cormorant-garamond-latin-500-normal.woff2) format("woff2")}
 @font-face{font-family:"Cormorant Garamond";font-weight:600;font-display:swap;src:url(fonts/cormorant-garamond-latin-600-normal.woff2) format("woff2")}
 @font-face{font-family:"EB Garamond";font-weight:400;font-display:swap;src:url(fonts/eb-garamond-latin-400-normal.woff2) format("woff2")}
 @font-face{font-family:"EB Garamond";font-weight:400;font-style:italic;font-display:swap;src:url(fonts/eb-garamond-latin-400-italic.woff2) format("woff2")}
 @font-face{font-family:"EB Garamond";font-weight:600;font-display:swap;src:url(fonts/eb-garamond-latin-600-normal.woff2) format("woff2")}
-:root{
-  --bg:#141c27; --bg2:#19222f; --borda:#2a3442; --txt:#f5f1e8; --sec:#b9b3a6; --ouro:#d9b45a; --ouro-fraco:#8a7440;
-  --lula:#ec6d5d; --pl:#5aa5fb;
-  --titulo:"Cormorant Garamond",Georgia,"Times New Roman",serif; --texto:"EB Garamond",Georgia,"Times New Roman",serif;
-  color-scheme:dark;
-}
+:root{--bg:#f6f2e9;--painel:#fffdf8;--borda:#ddd5c4;--txt:#1d2430;--sec:#586071;--acento:#1f4a6e;--ouro:#9a7420;
+  --titulo:"Cormorant Garamond",Georgia,serif;--texto:"EB Garamond",Georgia,serif;--mono:ui-monospace,"Cascadia Mono",Consolas,monospace;color-scheme:light}
+html[data-l=pt] [lang=en],html[data-l=en] [lang=pt]{display:none!important}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--txt);font-family:var(--texto);font-size:19px;line-height:1.65;
-  background-image:radial-gradient(60% 40% at 50% 0%,rgba(217,180,90,.06),transparent 70%)}
-a{color:var(--txt);text-decoration:underline;text-decoration-color:var(--ouro-fraco);text-underline-offset:4px}
-a:hover{text-decoration-color:var(--ouro)}
-a:focus-visible{outline:2px solid var(--ouro);outline-offset:3px;border-radius:2px}
-.pagina{max-width:960px;margin:0 auto;padding:0 20px}
-header.topo{display:flex;justify-content:space-between;align-items:center;padding:22px 0}
-header.topo .casa{font-family:var(--titulo);font-weight:600;font-size:20px;text-decoration:none}
-header.topo nav{display:flex;gap:20px;font-size:16px}
-header.topo nav a{text-decoration:none;color:var(--sec)}
-header.topo nav a:hover{color:var(--txt)}
-.capa{text-align:center;padding:40px 0 8px}
-.selo{display:block;width:150px;height:150px;margin:0 auto 22px;border-radius:50%;object-fit:cover;object-position:50% 40%;
-  border:2px solid var(--ouro-fraco);box-shadow:0 0 0 6px var(--bg),0 0 0 7px var(--borda)}
-h1{font-family:var(--titulo);font-weight:600;font-size:clamp(40px,8vw,56px);line-height:1.05;margin:0}
-.capa p{color:var(--sec);margin:8px 0 0;font-style:italic}
-.ornamento{display:flex;align-items:center;justify-content:center;gap:12px;margin:44px 0}
-.ornamento::before,.ornamento::after{content:"";width:56px;height:1px;background:linear-gradient(90deg,transparent,var(--ouro-fraco))}
-.ornamento::after{transform:scaleX(-1)}
-.ornamento i{width:9px;height:9px;border-radius:50%;border:1px solid var(--ouro);box-shadow:inset 0 0 0 2px var(--bg),inset 0 0 0 5px var(--ouro)}
-section{display:grid;grid-template-columns:200px minmax(0,1fr);gap:8px 40px;scroll-margin-top:24px}
-h2{font-family:var(--titulo);font-weight:600;font-size:28px;line-height:1.2;margin:0}
-section p{margin:0 0 16px}
-section p:last-child{margin-bottom:0}
-.cartao{display:grid;grid-template-columns:150px minmax(0,1fr);gap:20px;align-items:center;background:var(--bg2);border:1px solid var(--borda);
-  border-radius:10px;padding:18px;text-decoration:none;position:relative;transition:border-color .2s}
-.cartao:hover{border-color:var(--ouro-fraco)}
-.cartao svg{width:100%;height:auto;display:block;border-radius:6px;background:#0e0f14}
-.cartao h3{font-family:var(--titulo);font-weight:600;font-size:26px;line-height:1.15;margin:0 0 6px}
-.cartao h3 em{color:var(--ouro);font-style:normal}
-.cartao p{color:var(--sec);font-size:17px;line-height:1.5;margin:0 0 10px}
-.etiqueta{display:inline-block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--bg);background:var(--ouro);border-radius:4px;padding:1px 8px}
-.lista{list-style:none;margin:0;padding:0}
-.lista li{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:7px 0;border-bottom:1px solid var(--borda)}
-.lista li:last-child{border-bottom:0}
-.lista a{font-weight:600;text-decoration:none}
-.lista a:hover{text-decoration:underline;text-decoration-color:var(--ouro)}
-.lista span{color:var(--sec);font-size:16px;text-align:right}
-footer{border-top:1px solid var(--borda);margin-top:56px;padding:22px 0 40px;color:var(--sec);font-size:15px}
-@media (max-width:700px){
-  body{font-size:18px}
-  section{grid-template-columns:1fr}
-  h2{margin-bottom:6px}
-  .cartao{grid-template-columns:1fr}
-  .ornamento{margin:32px 0}
-  header.topo nav{gap:14px;font-size:15px}
+body{margin:0;background:var(--bg);color:var(--txt);font-family:var(--texto);font-size:19px;line-height:1.6}
+a{color:var(--acento);text-decoration-thickness:1px;text-underline-offset:4px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--acento);outline-offset:3px;border-radius:2px}
+.mono{font-family:var(--mono);font-size:12.5px;letter-spacing:.04em;color:var(--sec)}
+.layout{display:grid;grid-template-columns:300px minmax(0,1fr);min-height:100vh}
+aside{position:sticky;top:0;height:100vh;padding:36px 28px;border-right:1px solid var(--borda);display:flex;flex-direction:column;gap:18px;background:var(--painel)}
+.foto{width:96px;height:96px;border-radius:50%;object-fit:cover;object-position:50% 40%;border:1px solid var(--borda)}
+aside h1{font-family:var(--titulo);font-weight:600;font-size:34px;line-height:1.05;margin:0}
+aside .sub{margin:4px 0 0;color:var(--sec);font-style:italic;font-size:17px;line-height:1.35}
+aside nav{display:flex;flex-direction:column;gap:2px;margin-top:6px}
+aside nav a{text-decoration:none;color:var(--txt);padding:5px 0;border-bottom:1px dotted var(--borda);display:flex;justify-content:space-between;font-size:17px}
+aside nav a:hover{color:var(--acento)}
+aside nav a .mono{font-size:11px}
+.redes{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:auto}
+.redes a{font-family:var(--mono);font-size:12.5px;color:var(--sec);text-decoration:none;border-bottom:1px solid var(--borda)}
+.redes a:hover{color:var(--acento)}
+.lang{display:inline-flex;border:1px solid var(--borda);border-radius:6px;overflow:hidden;align-self:flex-start}
+.lang button{display:flex;align-items:center;background:none;border:0;padding:5px 9px;cursor:pointer;opacity:.5}
+.lang button svg{border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.18)}
+html[data-l=pt] .lang [data-set=pt],html[data-l=en] .lang [data-set=en]{opacity:1;background:#e7e0cf}
+main{padding:48px clamp(20px,5vw,64px) 40px;max-width:1000px}
+.faixa{display:flex;align-items:baseline;gap:12px;margin:0 0 12px}
+.faixa h2{font-family:var(--titulo);font-weight:600;font-size:26px;margin:0}
+.faixa::after{content:"";flex:1;height:1px;background:var(--borda)}
+section{margin-bottom:52px;scroll-margin-top:24px}
+.lede{font-family:var(--titulo);font-weight:500;font-size:clamp(28px,4vw,40px);line-height:1.18;margin:0 0 14px;max-width:760px}
+.lede em{color:var(--acento);font-style:normal}
+.sobre{max-width:680px;color:var(--sec);margin:0 0 14px}
+.pilares{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.pilar{background:var(--painel);border:1px solid var(--borda);border-radius:10px;padding:18px;display:flex;flex-direction:column;gap:8px;border-top:3px solid var(--acento)}
+.pilar:nth-child(2){border-top-color:var(--ouro)}
+.pilar h3{font-family:var(--titulo);font-weight:600;font-size:25px;line-height:1.15;margin:0}
+.pilar p{margin:0;font-size:17px;color:var(--sec);line-height:1.5}
+.pilar .mono:last-child{margin-top:auto;padding-top:8px;border-top:1px dotted var(--borda)}
+.ia{margin-top:14px;display:flex;gap:14px;align-items:flex-start;border:1px dashed var(--borda);border-radius:10px;padding:14px 18px}
+.ia .mono{white-space:nowrap;padding-top:4px;color:var(--acento)}
+.ia p{margin:0;font-size:17px;color:var(--sec)}
+.linha{list-style:none;margin:0;padding:0 0 0 18px;border-left:1px solid var(--borda)}
+.linha li{position:relative;padding:0 0 18px 8px}
+.linha li::before{content:"";position:absolute;left:-23px;top:9px;width:9px;height:9px;border-radius:50%;background:var(--bg);border:2px solid var(--acento)}
+.linha .tag{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--acento);margin-right:8px}
+.linha a{font-weight:600;color:var(--txt);text-decoration:none}.linha a:hover{color:var(--acento);text-decoration:underline}
+.linha .mono{display:block}
+.btn{display:inline-block;font-family:var(--mono);font-size:13px;color:#fff;background:var(--acento);text-decoration:none;border-radius:6px;padding:6px 14px}
+.btn:hover{background:var(--txt)}
+.nota{color:var(--sec);font-size:15px;font-style:italic;margin:4px 0 0}
+.contato{display:flex;flex-wrap:wrap;gap:8px 28px}
+footer{padding-top:20px;border-top:1px solid var(--borda);color:var(--sec);font-size:15px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+@media (max-width:900px){
+  .layout{grid-template-columns:1fr}
+  aside{position:static;height:auto;border-right:0;border-bottom:1px solid var(--borda);padding:20px;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:6px 14px}
+  .foto{width:64px;height:64px;grid-row:span 2}
+  aside h1{font-size:28px}aside nav{grid-column:1/-1;flex-direction:row;flex-wrap:wrap;gap:4px 16px;margin:6px 0 0}
+  aside nav a{border:0;padding:2px 0;font-size:16px}aside nav a .mono{display:none}
+  .redes{grid-column:1/-1;margin-top:4px}
+  .lang{grid-column:3;grid-row:1}
+  .pilares{grid-template-columns:1fr}
+  .ia{flex-direction:column;gap:2px}
+  main{padding-top:32px}
 }
-@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cartao{transition:none}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
 <body>
-<div class="pagina">
-  <header class="topo">
-    <a class="casa" href="/">Daniel Umpierre</a>
-    <nav aria-label="Seções"><a href="#sobre">Sobre</a><a href="#especial">Especial</a><a href="#links">Links</a><a href="#contato">Contato</a></nav>
-  </header>
+<div class="layout">
+  <aside>
+    <img class="foto" src="du-foto.jpg" width="96" height="96" alt="Daniel Umpierre">
+    <div>
+      <h1>Daniel Umpierre</h1>
+      <p class="sub"><span lang="pt">Professor de Saúde Coletiva<br>UFRGS · LADD/HCPA</span><span lang="en">Professor of Public Health<br>UFRGS · LADD/HCPA</span></p>
+    </div>
+    <span class="lang" role="group" aria-label="Idioma / Language"><button data-set="pt" type="button" aria-label="Português (Brasil)" title="Português (Brasil)"><svg viewBox="0 0 22 15" width="22" height="15" aria-hidden="true" focusable="false"><rect width="22" height="15" fill="#009c3b"/><path d="M11 1.8 20 7.5 11 13.2 2 7.5z" fill="#ffdf00"/><circle cx="11" cy="7.5" r="3.3" fill="#002776"/></svg></button><button data-set="en" type="button" aria-label="English" title="English"><svg viewBox="0 0 22 15" width="22" height="15" aria-hidden="true" focusable="false"><rect width="22" height="15" fill="#fff"/><rect y="0.000" width="22" height="1.154" fill="#b22234"/><rect y="2.308" width="22" height="1.154" fill="#b22234"/><rect y="4.615" width="22" height="1.154" fill="#b22234"/><rect y="6.923" width="22" height="1.154" fill="#b22234"/><rect y="9.231" width="22" height="1.154" fill="#b22234"/><rect y="11.538" width="22" height="1.154" fill="#b22234"/><rect y="13.846" width="22" height="1.154" fill="#b22234"/><rect width="9.2" height="8.08" fill="#3c3b6e"/><circle cx="1.20" cy="1.00" r=".42" fill="#fff"/><circle cx="2.80" cy="1.00" r=".42" fill="#fff"/><circle cx="4.40" cy="1.00" r=".42" fill="#fff"/><circle cx="6.00" cy="1.00" r=".42" fill="#fff"/><circle cx="7.60" cy="1.00" r=".42" fill="#fff"/><circle cx="2.00" cy="2.10" r=".42" fill="#fff"/><circle cx="3.60" cy="2.10" r=".42" fill="#fff"/><circle cx="5.20" cy="2.10" r=".42" fill="#fff"/><circle cx="6.80" cy="2.10" r=".42" fill="#fff"/><circle cx="1.20" cy="3.20" r=".42" fill="#fff"/><circle cx="2.80" cy="3.20" r=".42" fill="#fff"/><circle cx="4.40" cy="3.20" r=".42" fill="#fff"/><circle cx="6.00" cy="3.20" r=".42" fill="#fff"/><circle cx="7.60" cy="3.20" r=".42" fill="#fff"/><circle cx="2.00" cy="4.30" r=".42" fill="#fff"/><circle cx="3.60" cy="4.30" r=".42" fill="#fff"/><circle cx="5.20" cy="4.30" r=".42" fill="#fff"/><circle cx="6.80" cy="4.30" r=".42" fill="#fff"/><circle cx="1.20" cy="5.40" r=".42" fill="#fff"/><circle cx="2.80" cy="5.40" r=".42" fill="#fff"/><circle cx="4.40" cy="5.40" r=".42" fill="#fff"/><circle cx="6.00" cy="5.40" r=".42" fill="#fff"/><circle cx="7.60" cy="5.40" r=".42" fill="#fff"/><circle cx="2.00" cy="6.50" r=".42" fill="#fff"/><circle cx="3.60" cy="6.50" r=".42" fill="#fff"/><circle cx="5.20" cy="6.50" r=".42" fill="#fff"/><circle cx="6.80" cy="6.50" r=".42" fill="#fff"/></svg></button></span>
+    <nav aria-label="Menu">
+      <a href="#sobre"><span lang="pt">Sobre</span><span lang="en">About</span></a>
+      <a href="#pilares"><span lang="pt">Eixos</span><span lang="en">Focus areas</span></a>
+      <a href="#novidades"><span lang="pt">Trabalhos recentes</span><span lang="en">Recent work</span></a>
+      <a href="#consultoria"><span lang="pt">Colaborações e cursos</span><span lang="en">Collaborations and courses</span></a>
+      <a href="#contato"><span lang="pt">Contato</span><span lang="en">Contact</span></a>
+    </nav>
+    <div class="redes">
+      <a href="http://lattes.cnpq.br/7262168077244929" rel="me noopener" target="_blank">Lattes</a>
+      <a href="https://scholar.google.com.br/citations?user=1vl98BgAAAAJ" rel="me noopener" target="_blank">Google Scholar</a>
+      <a href="https://github.com/dumpierre" rel="me noopener" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/daniel-umpierre-520ba6b/" rel="me noopener" target="_blank">LinkedIn</a>
+      <a href="https://www.youtube.com/@DanielUmpierre" rel="me noopener" target="_blank">YouTube</a>
+      <a href="https://www.instagram.com/daniel.umpierre/" rel="me noopener" target="_blank">Instagram</a>
+    </div>
+  </aside>
 
   <main>
-    <div class="capa">
-      <img class="selo" src="du-foto.jpg" width="160" height="160" alt="Foto de Daniel Umpierre">
-      <h1>Daniel Umpierre</h1>
-      <p>Professor de Saúde Coletiva · UFRGS</p>
-    </div>
+    <section id="sobre">
+      <div class="faixa"><h2><span lang="pt">Sobre</span><span lang="en">About</span></h2></div>
+      <p class="sobre" lang="pt">Sou professor da UFRGS e pesquisador do Hospital de Clínicas de Porto Alegre. Fiz a graduação em Educação Física, bem como o mestrado e doutorado em Ciências da Saúde (Cardiologia) na própria UFRGS, com estágio-sanduíche na Universidade do Texas em Austin. Coordeno estudos que, de forma simplificada, se dividem em (1) atividade física como estratégia para a saúde pública e (2) práticas de pesquisa nas áreas de saúde.</p>
+      <p class="sobre" lang="pt">Orientei mais de 25 estudantes de pós-graduação e 6 pós-doutorandos, publiquei mais de 95 artigos em periódicos nacionais e internacionais (embora publicações não sejam a métrica mais importante para mim) e ministrei mais de 30 cursos sobre revisões sistemáticas e metanálises. Entre 2018-2021, desenvolvi junto ao meu grupo a Iniciativa SEES, onde avaliamos o rigor metodológico e qualidade de relato de ensaios clínicos e revisões sistemáticas. Contribuí na elaboração do Guia de Atividade Física para a População Brasileira (2021). Na área da ciência aberta e práticas de pesquisa, participo em iniciativas como as TOP Guidelines, FORCE11 e coordenei um grupo de trabalho que elaborou o Guia de Integridade em Pesquisa da UFRGS. Atuei como chefe do Centro de Pesquisa Clínica do HCPA (2019-2023), editor sênior da Systematic Reviews (2023-2026) e, desde 2024, atuo como co-editor chefe do periódico Clinical and Biomedical Research.</p>
+      <p class="sobre" lang="en">I am a professor at UFRGS and a researcher at Hospital de Clínicas de Porto Alegre. I completed my undergraduate degree in Physical Education, as well as my master's and doctorate in Health Sciences (Cardiology), at UFRGS itself, with a sandwich period at the University of Texas at Austin. I coordinate studies that, in simple terms, fall into two areas: (1) physical activity as a public health strategy and (2) research practices in the health sciences.</p>
+      <p class="sobre" lang="en">I have supervised more than 25 graduate students and 6 postdoctoral fellows, published more than 95 articles in national and international journals (although publications are not the most important metric for me), and taught more than 30 courses on systematic reviews and meta-analyses. Between 2018 and 2021, I developed the SEES Initiative with my group, in which we assessed the methodological rigor and reporting quality of clinical trials and systematic reviews. I contributed to the development of the Physical Activity Guide for the Brazilian Population (2021). In open science and research practices, I take part in initiatives such as the TOP Guidelines and FORCE11, and I coordinated a working group that produced the UFRGS Research Integrity Guide. I was head of the HCPA Clinical Research Center (2019-2023) and senior editor of Systematic Reviews (2023-2026), and since 2024 I have been co-editor-in-chief of the journal Clinical and Biomedical Research.</p>
+    </section>
 
-    <div class="ornamento" aria-hidden="true"><i></i></div>
-
-    <section id="sobre" aria-labelledby="t-sobre">
-      <h2 id="t-sobre">Sobre</h2>
-      <div>
-        <p>Sou professor adjunto de Saúde Coletiva na Universidade Federal do Rio Grande do Sul (UFRGS) e um dos coordenadores do Laboratório de Atividade Física, Diabetes e Doença Cardiovascular (LADD), no Hospital de Clínicas de Porto Alegre.</p>
-        <p>Pesquiso avaliação de tecnologias em saúde, especialmente intervenções não farmacológicas, e síntese de evidências. Meu grupo faz estudos metodológicos, revisões sistemáticas e ensaios clínicos, com práticas de ciência aberta, inclusiva e centrada no público.</p>
+    <section id="pilares">
+      <div class="faixa"><h2><span lang="pt">Eixos de trabalho</span><span lang="en">Areas of work</span></h2></div>
+      <div class="pilares">
+        <article class="pilar">
+          <h3><span lang="pt">Ciência aberta e práticas de pesquisa</span><span lang="en">Open science and research practices</span></h3>
+          <p lang="pt">Dados, códigos e protocolos acessíveis, e pesquisa feita com o público a quem ela serve. Revisões sistemáticas, ensaios clínicos e estudos metodológicos: como a evidência é produzida e comunicada.</p>
+          <p lang="en">Data, code and protocols that anyone can inspect, and research done with the public it serves. Systematic reviews, clinical trials and methodological studies: how evidence is produced and communicated.</p>
+        </article>
+        <article class="pilar">
+          <h3><span lang="pt">Atividade física e saúde pública</span><span lang="en">Physical activity and public health</span></h3>
+          <p lang="pt">Atividade física como intervenção em saúde e como questão de saúde pública, com foco em diabetes e doença cardiovascular.</p>
+          <p lang="en">Physical activity as a health intervention and a public health issue, focused on diabetes and cardiovascular disease.</p>
+        </article>
       </div>
     </section>
 
-    <div class="ornamento" aria-hidden="true"><i></i></div>
-
-    <section id="especial" aria-labelledby="t-especial">
-      <h2 id="t-especial">Especial</h2>
-      <div>
-        <a class="cartao" href="https://eleicoes.danielumpierre.com/">
-          <svg viewBox="0 0 150 100" aria-hidden="true" focusable="false">
-            <g fill="var(--pl)" opacity=".85"><circle cx="22" cy="20" r="3"/><circle cx="34" cy="26" r="2"/><circle cx="28" cy="34" r="4"/><circle cx="44" cy="18" r="2.5"/><circle cx="40" cy="38" r="2"/><circle cx="52" cy="30" r="3"/><circle cx="18" cy="44" r="2"/><circle cx="60" cy="42" r="2"/><circle cx="34" cy="48" r="2.5"/><circle cx="66" cy="28" r="1.8"/></g>
-            <g fill="var(--lula)" opacity=".85"><circle cx="128" cy="80" r="3"/><circle cx="116" cy="74" r="2"/><circle cx="122" cy="66" r="4"/><circle cx="106" cy="82" r="2.5"/><circle cx="110" cy="62" r="2"/><circle cx="98" cy="70" r="3"/><circle cx="132" cy="56" r="2"/><circle cx="90" cy="58" r="2"/><circle cx="116" cy="52" r="2.5"/><circle cx="84" cy="72" r="1.8"/></g>
-            <line x1="10" y1="90" x2="140" y2="10" stroke="#3a4250" stroke-dasharray="3 3"/>
-          </svg>
-          <div>
-            <h3>Eleições 2026: <em>Cidade não vota. Gente vota.</em></h3>
-            <p>Os mapas do 1º turno com dados oficiais por município: Bolsa Família, renda, 2022 e o que os dados permitem, ou não, dizer.</p>
-          </div>
-        </a>
-      </div>
-    </section>
-
-    <div class="ornamento" aria-hidden="true"><i></i></div>
-
-    <section id="links" aria-labelledby="t-links">
-      <h2 id="t-links">Links úteis</h2>
-      <ul class="lista">
-        <li><a href="http://lattes.cnpq.br/7262168077244929" rel="me noopener">Currículo Lattes</a><span>CNPq</span></li>
-        <li><a href="https://www.linkedin.com/in/daniel-umpierre-520ba6b/" rel="me noopener">LinkedIn</a><span>trajetória profissional</span></li>
-        <li><a href="https://www.youtube.com/@DanielUmpierre" rel="me noopener">YouTube</a><span>@DanielUmpierre</span></li>
-        <li><a href="https://www.instagram.com/daniel.umpierre/" rel="me noopener">Instagram</a><span>@daniel.umpierre</span></li>
+    <section id="novidades">
+      <div class="faixa"><h2><span lang="pt">Trabalhos recentes</span><span lang="en">Recent work</span></h2></div>
+      <ul class="linha">
+        <li><span class="mono">2026-09</span><span class="tag"><span lang="pt">Artigo</span><span lang="en">Article</span></span><a href="https://doi.org/10.1016/S2468-2667(26)00142-8" rel="noopener" target="_blank">Domain-specific physical activity levels and risk of dementia: a systematic review and meta-analysis</a><span class="mono">Lancet Public Health · doi:10.1016/S2468-2667(26)00142-8</span></li>
+        <li><span class="mono">2026-08-05</span><span class="tag"><span lang="pt">Artigo</span><span lang="en">Article</span></span><a href="https://doi.org/10.1186/s41073-026-00223-0" rel="noopener" target="_blank">TOP 2025: An update to the Transparency and Openness Promotion Guidelines</a><span class="mono">Res Integr Peer Rev · doi:10.1186/s41073-026-00223-0</span></li>
+        <li><span class="mono">2026-07-15</span><span class="tag"><span lang="pt">Artigo</span><span lang="en">Article</span></span><a href="https://doi.org/10.1136/bmjopen-2026-117508" rel="noopener" target="_blank">What is the impact of modest increases in physical activity on the future burden of diabetes in Brazil? A modelling study and projection analysis from 2026 to 2050</a><span class="mono">BMJ Open · doi:10.1136/bmjopen-2026-117508</span></li>
+        <li><span class="mono">2026-06</span><span class="tag"><span lang="pt">Artigo</span><span lang="en">Article</span></span><a href="https://doi.org/10.1111/obr.70085" rel="noopener" target="_blank">Health Outcomes in Children and Adolescents With Overweight or Obesity Exposed to Physical Activity Interventions: An Umbrella Review Covering Over 1200 Trials</a><span class="mono">Obes Rev · doi:10.1111/obr.70085</span></li>
       </ul>
     </section>
 
-    <div class="ornamento" aria-hidden="true"><i></i></div>
+    <section id="consultoria">
+      <div class="faixa"><h2><span lang="pt">Colaborações e cursos</span><span lang="en">Collaborations and courses</span></h2></div>
+      <p class="sobre" lang="pt">Colaboro com a equipe Evidência Saúde, que apoia projetos de pesquisa e cursos. Cursos em datas selecionadas podem ser tratados por meio da Evidência Saúde.</p>
+      <p class="sobre" lang="en">I work with the Evidência Saúde team, which supports research projects and courses. Courses on selected dates can be arranged through Evidência Saúde.</p>
+      <p><a class="btn" href="consultoria.html" rel="noopener" target="_blank"><span lang="pt">Saiba mais</span><span lang="en">Learn more</span></a></p>
+    </section>
 
-    <section id="contato" aria-labelledby="t-contato">
-      <h2 id="t-contato">Contato</h2>
-      <div>
-        <p>Por e-mail: <a href="mailto:danielumpierre@hcpa.edu.br">danielumpierre@hcpa.edu.br</a>. Também respondo mensagens pelo LinkedIn.</p>
+    <section id="contato">
+      <div class="faixa"><h2><span lang="pt">Contato</span><span lang="en">Contact</span></h2></div>
+      <div class="contato">
+        <a href="mailto:danielumpierre@hcpa.edu.br">danielumpierre@hcpa.edu.br</a>
       </div>
     </section>
+    <footer><span>© 2026 Daniel Umpierre</span></footer>
   </main>
-
-  <footer>© 2026 Daniel Umpierre</footer>
 </div>
+<script>
+(function(){var r=document.documentElement,k="du-lang",l="pt";
+try{l=localStorage.getItem(k)||(/^pt/i.test(navigator.language||"pt")?"pt":"en")}catch(e){}
+function set(v){r.dataset.l=v;r.lang=v==="en"?"en":"pt-BR";try{localStorage.setItem(k,v)}catch(e){}}
+var bs=document.querySelectorAll(".lang button");function mark(v){bs.forEach(function(b){b.setAttribute("aria-pressed",b.dataset.set===v)})}
+set(l);mark(l);bs.forEach(function(b){b.onclick=function(){set(b.dataset.set);mark(b.dataset.set)}});})();
+</script>
 </body>
 </html>
